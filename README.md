@@ -45,6 +45,7 @@
 |**Framework**|Spring Boot
 |**OS**|Linux
 |**SCM Tool**|Git
+|**Cloud Server**|Oracle Cloud, AWS
 |**Other**| Slack, Kafka
 
 <br><br><br>
