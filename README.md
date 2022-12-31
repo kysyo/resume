@@ -34,6 +34,7 @@
 |**OS**|Linux
 |**SCM Tool**|Git, SVN
 |**Other**| Slack, Jira, Confluence, nGrinder 
+
 <br>
 
 ### **개인 프로젝트**
@@ -45,6 +46,7 @@
 |**OS**|Linux
 |**SCM Tool**|Git
 |**Other**| Slack, Kafka
+
 <br><br><br>
 
 ## 경력
@@ -60,7 +62,7 @@
 <br>
 
 ### DB 마이그레이션/레거시 시스템 버전 업
-|<!-- -->|<!-- -->|
+|[]()|[]()|
 |-----|----|
 |**기간**| 2021.11 ~ 2022.06
 |**소개**| Product 환경의 Oracle, JDK, Linux Tomcat 버전 <br>업그레이드와 Oracle DB 데이터 마이그레이션.
