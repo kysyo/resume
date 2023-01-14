@@ -124,14 +124,20 @@
 
 ## 개인 프로젝트
 
+<img src="images/backtesting_result.png" width="70%"/>
+
 ### 백트레이더 백테스팅
 |<!-- -->|<!-- -->|
 |-----|----|
 |**기간**| 2022.10 ~ 2022.12
-|**소개**| 백트레이더 라이브러리를 통한 코인 시세 백테스트툴
-|**담당업무**| api개발
+|**소개**| 백트레이더 라이브러리를 활용한 코인 시스템 트레이딩 백테스트 툴
+|**담당업무**| 전부
 |**기술스택**| Python, influxDB
 |**github**| https://github.com/kysyo/backtrader-backtesting
+
+<br><br><br>
+
+<img src="images/deluna.gif" width="70%"/>
 
 ### 호텔 델루나
 |<!-- -->|<!-- -->|
@@ -142,14 +148,40 @@
 |**기술스택**| AWS, Java, Spring Boot, OracleDB
 |**github**| https://github.com/Hotel-Deluna/deluna
 
+<br><br><br>
+
+<img src="images/cointalk.gif" width="70%"/>
+
 ### 코인톡
 |<!-- -->|<!-- -->|
 |-----|----|
 |**기간**| 2022.05 ~ 2022.06
 |**소개**| 코인에 대한 실시간 시세, 뉴스, 차트 정보와 차트 추세선을 그릴수 있는 드로잉 기능, 그리고 이를 공유할 수 있는 채팅기능을 가진 프로그램.
-|**담당업무**| 게이트웨이, 카프카&슬렉봇 알림, 데이터 레이크 api개발 및 서버 구축
-|**기술스택**| Oracle Cloud, Java, Spring, Python, influxDB, Kafka
+|**담당업무**| 게이트웨이, 알림서버, 드로잉 차트 및 시세 데이터 저장 api개발 및 서버 구축
+|**기술스택**| Oracle Cloud, AWS, Java, Spring, Python, influxDB, Kafka
 |**github**| https://github.com/dduckddack-coinTalk
+
+<br><br><br>
+
+### 코인 자동매매
+|<!-- -->|<!-- -->|
+|-----|----|
+|**기간**| 2021.10 ~ 2022.02
+|**소개**| 업비트 api를 활용한 코인 시스템 트레이딩. 텔레그램 명령어로 시스템 제어
+|**담당업무**| 전부
+|**기술스택**| Oracle Cloud, Python, influxDB
+
+<br><br><br>
+
+### 주식시세 데이터 저장
+|<!-- -->|<!-- -->|
+|-----|----|
+|**기간**| 2020.10 ~ 2021.05
+|**소개**| 증권시장에 상장된 모든 종목의 시,분,일 시세데이터와 당일 상위거래량, 상한가, 하한가 등 특이케이스 시세 저장
+|**담당업무**| 전부
+|**기술스택**| SQLite, Python, MongoDB
+
+<br><br><br>
 
 ### 
 
